@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fortunes">
+        <item>I would bet both halves of my arse on it.</item> <!-- Positives :7 -->
+		<item>Does the pope shit in the woods?</item> 
+		<item>Hell yeah dude.</item> 
+		<item>Oh\, go on then</item> 
+		<item>Why the fuck not?</item> 
+		<item>FUCK YEEEEEEEEEEAAAH!</item>
+		<item>Aaaawww yeah\, baby.</item>
+		<item>Yes. Can I go home now?</item>
+        <item>Why don\'t you go ask your mum?</item> <!-- bullshit : 8/ -->
+        <item>How the hell am I meant to know?</item>
+		<item>Shake again\, but don\'t mumble this time.</item>
+		<item>Seriously?</item>
+		<item>STOP SHAKING ME SO BLOODY HARD.</item>
+		<item>ERROR CODE 5378 \: WITTY RESPONSE NOT FOUND</item>
+		<item>You don\'t deserve to have that happen.</item>
+		<item>Is your mum a virgin?</item> 
+        <item>No fucking chance</item> <!-- Negatives : 8 -->
+		<item>I wouldn\'t bet even if it was free.</item> 
+		<item>Are you fucking retarded? NO!</item> 
+		<item>Normally, Yes, but for you? Nope.</item> 
+		<item>You wish! But no.</item> 
+		<item>NOOOPE.</item>
+		<item>Hah-haaaaaa. No.</item>
+		<item>AAAAAAAAAWWWW HEELLLL NO!</item>
+	</string-array>
+</resources>
